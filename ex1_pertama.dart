@@ -1,0 +1,4 @@
+void main() {
+print("POLITEKNIK NEGERI BENGKALIS");
+print("D4 REKAYASA PERANGKAT LUNAK");
+}
